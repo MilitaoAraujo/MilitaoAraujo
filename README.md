@@ -1,3 +1,5 @@
+![Banner do perfil](assets/banner.png)
+
 ## Hi there 👋
 
 <!--
