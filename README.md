@@ -2,6 +2,7 @@
 
 <br />
 # 💫 Sobre mim:
+
 🎓 Estudante de Ciência da Computação (UEPB)<br>💻 Dev Fullstack: JavaScript (Node.js, React) | Python (Django)<br>🗄️ Database: PostgreSQL, SQLite<br>⚙️ Experiência Prática: Atualmente em residência na Profia Academy como dev fullstack.<br>
 
 
